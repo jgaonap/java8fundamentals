@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package rosario.practices.practice_06_objectsclasses_2.soccer.newpackage;
+package rosario.practices.practice_07_manipulateformat_1.soccer;
 
 /**
  *
