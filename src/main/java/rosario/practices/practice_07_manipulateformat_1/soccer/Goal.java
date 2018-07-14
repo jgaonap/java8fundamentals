@@ -4,15 +4,16 @@
  * and open the template in the editor.
  */
 
-package rosario.practices.practice_06_objectsclasses_2.soccer.newpackage;
+package rosario.practices.practice_07_manipulateformat_1.soccer;
 
 /**
  *
  * @author rosario
  */
-public class Team {
+public class Goal {
     
-    public String teamName;
-    public Player[] playerArray;
+    public Team theTeam;
+    public Player thePlayer;
+    public double theTime;
     
 }
