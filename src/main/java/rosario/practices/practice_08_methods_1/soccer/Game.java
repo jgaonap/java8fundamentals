@@ -4,15 +4,16 @@
  * and open the template in the editor.
  */
 
-package rosario.practices.practice_06_objectsclasses_2.soccer;
+package rosario.practices.practice_08_methods_1.soccer;
 
 /**
  *
  * @author rosario
  */
-public class Team {
+public class Game {
     
-    public String teamName;
-    public Player[] playerArray;
+    public Team homeTeam;
+    public Team awayTeam;
+    public Goal[] goals;
     
 }

@@ -8,7 +8,7 @@ package rosario.practices.practice_06_objectsclasses_2.soccer;
 
 /**
  *
- * @author Administrator
+ * @author rosario
  */
 public class Player {
     
